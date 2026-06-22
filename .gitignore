@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Ignora il file di configurazione per evitare di pubblicare la tua password su internet!
+config.json
+
+# Ignora liste clienti e file excel/csv privati
+*.xlsx
+*.csv
+
+# Cache e file di sistema
+__pycache__/
+*.pyc
+.DS_Store
